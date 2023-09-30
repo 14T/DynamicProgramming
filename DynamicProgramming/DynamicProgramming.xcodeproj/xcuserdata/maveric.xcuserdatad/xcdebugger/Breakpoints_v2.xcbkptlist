@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F95E2F83-B7B2-4568-9A1E-F7EA41C51366"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB36166-091E-4A6A-BB85-7A7E2C0CCB9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "solve(arr:sum:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFB36166-091E-4A6A-BB85-7A7E2C0CCB9D - 252f550d843a7ade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.SubsetSumProblem.solve(arr: Swift.Array&lt;Swift.Int&gt;, sum: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3136">
+               </Location>
+               <Location
+                  uuid = "CFB36166-091E-4A6A-BB85-7A7E2C0CCB9D - 252f550d843a7ade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.SubsetSumProblem.solve(arr: Swift.Array&lt;Swift.Int&gt;, sum: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "3251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D58CB2B8-CAC7-4755-A4C6-16E0934892A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "solve(arr:sum:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D58CB2B8-CAC7-4755-A4C6-16E0934892A4 - 252f550d843a7a1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.SubsetSumProblem.solve(arr: Swift.Array&lt;Swift.Int&gt;, sum: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2931">
+               </Location>
+               <Location
+                  uuid = "D58CB2B8-CAC7-4755-A4C6-16E0934892A4 - 252f550d843a7a1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.SubsetSumProblem.solve(arr: Swift.Array&lt;Swift.Int&gt;, sum: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/SubsetSumProblem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "3046">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EB0DC62-381F-4CF3-B305-93C4E4A316EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/Knapsack/EqualSumPartition.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "solve(arr:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EB0DC62-381F-4CF3-B305-93C4E4A316EF - 5ca59c9c9020a088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.EqualSumPartition.solve(arr: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/EqualSumPartition.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "9EB0DC62-381F-4CF3-B305-93C4E4A316EF - 5ca59c9c9020a088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicProgrammingTests.EqualSumPartition.solve(arr: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "DynamicProgrammingTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maveric/Documents/Study/DynamicProgramming/DynamicProgramming/DynamicProgrammingTests/Knapsack/EqualSumPartition.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "173">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EB10603-327D-477E-9C63-7C3DB09426B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/Knapsack/EqualSumPartition.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "canPartition(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "110E47F5-4255-450C-8F4F-93D5E4AB06F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/0_1_Knapsack/11 Count the number of subset with a given difference.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "solve(nums:diff:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2663E06-6918-402D-A822-51587104E50B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/0_1_Knapsack/11 Count the number of subset with a given difference.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "solve(nums:diff:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "557D7F59-3FB4-448E-8CD4-3E2A9B6C81AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/0_1_Knapsack/11 Count the number of subset with a given difference.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "solve(nums:diff:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F7D38D4-8A33-418F-98D2-AD836ADDF1B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/0_1_Knapsack/11 Count the number of subset with a given difference.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "solve(nums:diff:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22A95F1A-6E3E-4173-B64D-A04689967777"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicProgrammingTests/0_1_Knapsack/12 Target sum.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "testExample5()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
